@@ -1,4 +1,4 @@
-# ResearchAssistantship
+# DengueClimateProject
 
 Repository for the research project: **Climatic Understanding of Dengue Spread in Urban Landscapes** under Dr. Kaushik Jana and Dr. Aditya Vaishya.
 
