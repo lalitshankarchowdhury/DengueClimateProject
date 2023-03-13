@@ -6,6 +6,6 @@ I am working as a research assistant performing exploratory data analysis on den
 
 The goals of this project are:
 
-1. Find the link between dengue cases and meteorological parameters like temperature, humidity, and rainfall
+- Find the link between dengue cases and meteorological parameters like temperature, humidity, and rainfall
 
-2. Model rainfall and humidity by using Generalized Extreme Value Distribution. This will help in finding the link with dengue outbreaks.
+- Model rainfall and humidity by using Generalized Extreme Value Distribution which will help in finding the link with dengue outbreaks
